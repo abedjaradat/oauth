@@ -4,8 +4,8 @@
       {
         "raw": "oauth@~0.9.11",
         "scope": null,
-        "escapedName": "oauth",
-        "name": "oauth",
+        "escapedName": "jaradat-oauth",
+        "name": "jaradat-oauth",
         "rawSpec": "~0.9.11",
         "spec": ">=0.9.11 <0.10.0",
         "type": "range"
@@ -13,22 +13,22 @@
       "/home/abed/gameprint/node_modules/shapeways"
     ]
   ],
-  "_from": "oauth@>=0.9.11 <0.10.0",
-  "_id": "oauth@0.9.14",
+  "_from": "jaradat-oauth@>=0.9.11 <0.10.0",
+  "_id": "jaradat-oauth@0.9.14",
   "_inCache": true,
   "_installable": true,
   "_location": "/oauth",
   "_npmUser": {
-    "name": "ciaranj",
-    "email": "ciaranj@gmail.com"
+    "name": "abed.jaradat",
+    "email": "abedjaradat2014@gmail.com"
   },
   "_npmVersion": "1.4.28",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "oauth@~0.9.11",
+    "raw": "jaradat-oauth@~0.9.11",
     "scope": null,
-    "escapedName": "oauth",
-    "name": "oauth",
+    "escapedName": "jaradat-oauth",
+    "name": "jaradat-oauth",
     "rawSpec": "~0.9.11",
     "spec": ">=0.9.11 <0.10.0",
     "type": "range"
@@ -42,11 +42,11 @@
   "_spec": "oauth@~0.9.11",
   "_where": "/home/abed/gameprint/node_modules/shapeways",
   "author": {
-    "name": "Ciaran Jessup",
-    "email": "ciaranj@gmail.com"
+    "name": "abedjaradat",
+    "email": "abedjaradat2014@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/ciaranj/node-oauth/issues"
+    "url": "https://github.com/abedjaradat/oauth/issues"
   },
   "dependencies": {},
   "description": "Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
@@ -61,18 +61,18 @@
     "tarball": "https://registry.npmjs.org/oauth/-/oauth-0.9.14.tgz"
   },
   "gitHead": "eefd821ea9b010a44ba49afa048a421ea23e7502",
-  "homepage": "https://github.com/ciaranj/node-oauth",
+  "homepage": "https://github.com/abedjaradat/oauth",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/ciaranj/node-oauth/raw/master/LICENSE"
+      "url": "http://github.com/abedjaradat/oauth/raw/master/LICENSE"
     }
   ],
   "main": "index.js",
   "maintainers": [
     {
-      "name": "ciaranj",
-      "email": "ciaranj@gmail.com"
+      "name": "abedjaradat",
+      "email": "abedjaradat2014@gmail.com"
     }
   ],
   "name": "oauth",
@@ -80,7 +80,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ciaranj/node-oauth.git"
+    "url": "git+ssh://git@github.com/abedjaradat/oauth.git"
   },
   "scripts": {
     "test": "make test"
